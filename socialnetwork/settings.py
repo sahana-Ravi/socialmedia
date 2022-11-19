@@ -38,7 +38,7 @@ AUTHENTICATION_BACKENDS = [
 
 INSTALLED_APPS = [
     'allauth',
-    'allauth.account',
+    'allauth.account'
     'allauth.socialaccount',
     'crispy_forms',
     'django.contrib.admin',
